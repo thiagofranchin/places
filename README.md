@@ -1,10 +1,8 @@
-![React Boilerplate](https://repository-images.githubusercontent.com/344539899/eb092880-7f96-11eb-882f-56ea0dd51e21)
-
 ![ci](https://github.com/thiagofranchin/react-boilerplate/workflows/ci/badge.svg)
 
-<h1>🛰 React Boilerplate</h1>
+<h1>🏄‍♂️ My Trips</h1>
 
-This is a [Next.js](https://nextjs.org/) boilerplate.
+This is a [Next.js](https://nextjs.org/) project.
 
 ## What is inside?
 
@@ -28,6 +26,7 @@ First, run the development server:
 
 ```bash
 yarn dev
+yarn build
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -44,7 +43,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
 
-## Documentation
+## Links
 
-- [Documentation](https://www.notion.so/React-Boilerplate-43b2b5c47b2f435e8575a0b98d6fc9c8) - How to create a React Boilerplate.
-
+- [Create a boilerplate](https://www.notion.so/React-Boilerplate-43b2b5c47b2f435e8575a0b98d6fc9c8) - How to create a React Boilerplate wiith Next.js.
+- [Graph CMS](https://graphcms.com) - API GraphQL native Headless CMS.
