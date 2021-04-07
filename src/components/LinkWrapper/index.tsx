@@ -9,9 +9,9 @@ type LinkWrapperProps = {
 
 const LinkWrapper = ({ href, children }: LinkWrapperProps) => {
   return (
-    <S.LinkWrapperWrapper>
+    <S.LinkWrapper>
       <Link href={href}>{children}</Link>
-    </S.LinkWrapperWrapper>
+    </S.LinkWrapper>
   )
 }
 

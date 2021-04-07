@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const LinkWrapperWrapper = styled.div`
+export const LinkWrapper = styled.div`
   position: fixed;
   z-index: 1100;
   top: var(--medium);
